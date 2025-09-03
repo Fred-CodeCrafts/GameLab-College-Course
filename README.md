@@ -1,2 +1,3 @@
 # GameLab-College-Course
-Mau lulu pak
+
+*Powered by caffeine, deadlines, and Ctrl+Z.*
